@@ -1,4 +1,5 @@
 # MSIS
-Roman Lipinski
-jsavvaid
 adisahoo
+jsavvaid
+kyoshimo
+rolipins
